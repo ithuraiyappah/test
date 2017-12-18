@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Bonjour !
-=======
-
->>>>>>> branche2
