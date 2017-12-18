@@ -1,6 +1,2 @@
 Bonjour !
-<<<<<<< HEAD
-Salut les amis !
-=======
-Salut les potes !
->>>>>>> branche2
+Salut !
