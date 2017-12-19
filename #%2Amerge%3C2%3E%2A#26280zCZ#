@@ -1,0 +1,29 @@
+  /home/a74978/Documents/test:
+  total used in directory 96 available 339524176
+  drwxr-xr-x  3 a74978 rdusers 4096 déc.  19 14:22 .
+  drwxr-xr-x 12 a74978 rdusers 4096 déc.  18 15:49 ..
+  -rw-r--r--  1 a74978 rdusers   95 déc.  19 14:24 #%2Amerge%2A#26280wKR#
+  -rw-r--r--  1 a74978 rdusers   45 déc.  19 13:58 #a.txt#
+  -rw-r--r--  1 a74978 rdusers   28 déc.  19 13:58 a.txt
+  -rw-r--r--  1 a74978 rdusers   83 déc.  19 13:58 a.txt.BACKUP.14281.txt
+  -rw-r--r--  1 a74978 rdusers   11 déc.  19 13:58 a.txt.BASE.14281.txt
+  -rw-r--r--  1 a74978 rdusers   27 déc.  19 13:58 a.txt.LOCAL.14281.txt
+  -rw-r--r--  1 a74978 rdusers   74 déc.  19 13:58 a.txt.orig
+  -rw-r--r--  1 a74978 rdusers   28 déc.  19 13:58 a.txt.REMOTE.14281.txt
+  -rw-r--r--  1 a74978 rdusers   23 déc.  19 13:58 b.txt
+  -rw-r--r--  1 a74978 rdusers    0 déc.  19 13:58 b.txt~
+  -rw-r--r--  1 a74978 rdusers   65 déc.  19 14:02 c.txt
+  -rw-r--r--  1 a74978 rdusers    0 déc.  19 13:52 c.txt~
+  -rw-r--r--  1 a74978 rdusers   65 déc.  19 14:02 c.txt.orig
+  -rw-r--r--  1 a74978 rdusers    9 déc.  19 13:58 docs.txt
+  -rw-r--r--  1 a74978 rdusers  106 déc.  19 13:58 #fichier.txt#
+  -rw-r--r--  1 a74978 rdusers  168 déc.  19 14:22 fichier.txt
+  -rw-r--r--  1 a74978 rdusers    0 déc.  18 11:12 fichier.txt~
+  -rw-r--r--  1 a74978 rdusers  168 déc.  19 14:02 fichier.txt.BACKUP.26223.txt
+  -rw-------  1 a74978 rdusers   29 déc.  19 14:22 fichier.txt.BASE.26223.txt
+  -rw-------  1 a74978 rdusers   99 déc.  19 14:22 fichier.txt.LOCAL.26223.txt
+  -rw-------  1 a74978 rdusers   60 déc.  19 14:22 fichier.txt.REMOTE.26223.txt
+  drwxr-xr-x  8 a74978 rdusers 4096 déc.  19 14:22 .git
+  -rw-r--r--  1 a74978 rdusers    9 déc.  19 14:05 *merge*
+  -rw-r--r--  1 a74978 rdusers   27 déc.  19 13:58 *merge*~
+  -rw-r--r--  1 a74978 rdusers   29 déc.  18 11:06 README.md
