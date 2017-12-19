@@ -1,5 +1,9 @@
 On test github !!!!!!!!!!!!!
+<<<<<<< HEAD
 On rajoute une ligne pour le test !!!!!
 Je fais un push!!!!
  
 lecture
+=======
+On est sur la branche 1 !!!!!!
+>>>>>>> branche1
